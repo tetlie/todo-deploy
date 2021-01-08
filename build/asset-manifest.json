@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-deploy/static/css/main.61dde816.chunk.css",
+    "main.js": "/todo-deploy/static/js/main.717f2723.chunk.js",
+    "main.js.map": "/todo-deploy/static/js/main.717f2723.chunk.js.map",
+    "runtime-main.js": "/todo-deploy/static/js/runtime-main.c197e19e.js",
+    "runtime-main.js.map": "/todo-deploy/static/js/runtime-main.c197e19e.js.map",
+    "static/js/2.861365d5.chunk.js": "/todo-deploy/static/js/2.861365d5.chunk.js",
+    "static/js/2.861365d5.chunk.js.map": "/todo-deploy/static/js/2.861365d5.chunk.js.map",
+    "static/js/3.7d98f89d.chunk.js": "/todo-deploy/static/js/3.7d98f89d.chunk.js",
+    "static/js/3.7d98f89d.chunk.js.map": "/todo-deploy/static/js/3.7d98f89d.chunk.js.map",
+    "index.html": "/todo-deploy/index.html",
+    "static/css/main.61dde816.chunk.css.map": "/todo-deploy/static/css/main.61dde816.chunk.css.map",
+    "static/js/2.861365d5.chunk.js.LICENSE.txt": "/todo-deploy/static/js/2.861365d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c197e19e.js",
+    "static/js/2.861365d5.chunk.js",
+    "static/css/main.61dde816.chunk.css",
+    "static/js/main.717f2723.chunk.js"
+  ]
+}
